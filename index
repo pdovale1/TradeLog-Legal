@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TradeLog - Legal</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:800px;margin:40px auto;padding:0 20px;line-height:1.6;}
+h1{color:#1B2E5C;}
+h2{color:#333;}
+hr{margin:60px 0;}
+</style>
+</head>
+<body>
+
+<h1>TradeLog Privacy Policy</h1>
+<p>Last updated: March 27, 2026</p>
+<p>Patrick Dovale ("we", "us", or "our") operates the TradeLog mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our app.</p>
+<h2>Information We Collect</h2>
+<p>We collect information you provide directly including your name, email address, and job data you enter into the app. We use Supabase to store this data securely.</p>
+<h2>How We Use Your Information</h2>
+<p>We use your information to provide and improve the TradeLog service, process your subscription through RevenueCat, and communicate with you about your account.</p>
+<h2>Data Retention and Deletion</h2>
+<p>You may request deletion of your account and all associated data at any time from within the app under Settings, or by emailing pdovale1@gmail.com. All data will be permanently deleted within 30 days.</p>
+<h2>Third Party Services</h2>
+<p>We use Supabase for data storage and RevenueCat for subscription management. These services have their own privacy policies.</p>
+<h2>Contact Us</h2>
+<p>Email us at pdovale1@gmail.com with any questions.</p>
+
+<hr>
+
+<h1 id="terms">TradeLog Terms of Use</h1>
+<p>Last updated: March 27, 2026</p>
+<p>By downloading or using TradeLog, you agree to these terms.</p>
+<h2>Subscription</h2>
+<p>TradeLog Pro is available as a monthly ($9.99/month) or yearly ($79.99/year) auto-renewing subscription. Payment is charged to your Apple ID account at confirmation of purchase. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage and cancel subscriptions in your Apple ID account settings.</p>
+<h2>Free Trial</h2>
+<p>TradeLog Pro may offer a free trial period. Any unused portion of a free trial will be forfeited when you purchase a subscription.</p>
+<h2>Account Deletion</h2>
+<p>You may delete your account at any time from within the app under Settings. All data will be permanently deleted within 30 days.</p>
+<h2>Limitation of Liability</h2>
+<p>TradeLog is provided as-is. We are not liable for any damages arising from use of the app.</p>
+<h2>Contact</h2>
+<p>For questions email pdovale1@gmail.com.</p>
+
+</body>
+</html>
